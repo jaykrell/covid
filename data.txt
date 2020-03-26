@@ -1,0 +1,60 @@
+cnn.com
+March 26 3am
+Cases 65,273 
+Deaths 938
+New York 30,811
+New Jersey 4,402
+Washington 2,580
+California 2,535
+Michigan 2,295
+Florida 1,971
+Illinois 1,865
+Massachusetts 1,838
+Louisiana 1,795
+Georgia 1,387
+Pennsylvania 1,127
+Colorado 1,086
+Texas 974
+Connecticut 875
+Tennessee 784
+Ohio 704
+Wisconsin 585
+North Carolina 504
+Indiana 477
+South Carolina 424
+Maryland 423
+Arizona 401
+Virginia 391
+Alabama 386
+Mississippi 377
+Missouri 356
+Utah 346
+Nevada 321
+Arkansas 308
+Minnesota 287
+Oregon 266
+District of Columbia 231
+Kentucky 198
+Oklahoma 164
+Iowa 145
+Maine 142
+New Hampshire 137
+Rhode Island 132
+Kansas 126
+Idaho 123
+Vermont 123
+Delaware 119
+New Mexico 112
+Hawaii 95
+Montana 65
+Nebraska 64
+Alaska 59
+West Virginia 52
+Puerto Rico 51
+North Dakota 45
+Wyoming 44
+South Dakota 41
+Guam 37
+US Virgin Islands 17
+Northern Mariana Islands 0
+American Samoa 0
